@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "doppelgänger",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-24T14:47:07.383526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/01_Doppelgänger_CURVE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Your Doppelganger",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/02_Your_Doppelganger_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "Curve",
+      "has_synced": true,
+      "path": "select/03_Doppelgänger_Curve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Doppelganger",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_Doppelganger_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Doppelganger",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/05_Doppelganger_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doppelganger",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Doppelganger_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Doppelgänger_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Involuntary Doppelgänger",
+      "artist": "Archspire",
+      "has_synced": true,
+      "path": "select/08_Involuntary_Doppelgänger_Archspire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "Joshua Bassett",
+      "has_synced": true,
+      "path": "select/09_Doppelgänger_Joshua_Bassett.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "The Antlers",
+      "has_synced": true,
+      "path": "select/10_Doppelgänger_The_Antlers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Troublemaker Doppelgänger",
+      "artist": "Lucy Dacus",
+      "has_synced": true,
+      "path": "select/11_Troublemaker_Doppelgänger_Lucy_Dacus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "Freezepop",
+      "has_synced": true,
+      "path": "select/12_Doppelgänger_Freezepop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Doppelgänger",
+      "artist": "Joshua Bassett",
+      "has_synced": false,
+      "path": "select/13_Doppelgänger_Joshua_Bassett.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Doppelganger",
+      "artist": "Nits",
+      "has_synced": false,
+      "path": "select/14_Doppelganger_Nits.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Doppelganger",
+      "artist": "The Nits",
+      "has_synced": false,
+      "path": "select/15_Doppelganger_The_Nits.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Doppelgänger (Live)",
+      "artist": "Georg Danzer",
+      "has_synced": false,
+      "path": "select/16_Doppelgänger_(Live)_Georg_Danzer.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Doppelganger",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/17_Doppelganger_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "doppelgänger",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_doppelgänger_CreepyNuts.txt"
+    }
+  ]
+}
